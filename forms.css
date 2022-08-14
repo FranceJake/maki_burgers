@@ -1,0 +1,23 @@
+@media (max-width: 575.98px) {
+    .feedback-form {
+        width: 35vh;
+    }
+}
+
+@media (min-width: 768px) {
+    .feedback-form {
+        width: 75vh;
+    }
+}
+
+
+
+.box-1 {
+    border-radius: 5;
+
+}
+
+.box-2 {
+    border-radius: 0;
+    height: 15rem;
+}
